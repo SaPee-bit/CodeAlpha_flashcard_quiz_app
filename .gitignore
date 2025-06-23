@@ -22,7 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-/folder_structure
-/AdminLayout.jsx
-/AdminFlashcard.jsx
-/Login.jsx
+.folder_structure
+.AdminLayout.jsx
+.AdminFlashcard.jsx
+.Login.jsx
