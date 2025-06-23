@@ -1,0 +1,11 @@
+src/
+├── App.jsx                           ← Router
+├── logic/
+│   └── FlashcardLogic.jsx           ← Shared logic via hook
+├── pages/
+│   ├── AdminFlashcard.jsx           ← Injects logic into AdminLayout
+│   └── UserFlashcard.jsx            ← Injects logic into UserLayout
+├── components/
+│   └── layouts/
+│       ├── AdminLayout.jsx          ← Admin UI
+│       └── UserLayout.jsx           ← User UI
